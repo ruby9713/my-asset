@@ -1,0 +1,24 @@
+<svg width="115" height="126" viewBox="0 0 115 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_106_524)">
+<path d="M59.1599 67.66L64.5699 73.07" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M50.4299 58.9301L55.8399 64.3401" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M55.8399 67.66L50.4299 73.07" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M64.5699 58.9301L59.1599 64.3401" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M57.5 55C57.7761 55 58 54.7761 58 54.5C58 54.2239 57.7761 54 57.5 54C57.2239 54 57 54.2239 57 54.5C57 54.7761 57.2239 55 57.5 55Z" fill="#656A6D"/>
+<path d="M0.5 66.5C0.776142 66.5 1 66.2761 1 66C1 65.7239 0.776142 65.5 0.5 65.5C0.223858 65.5 0 65.7239 0 66C0 66.2761 0.223858 66.5 0.5 66.5Z" fill="#656A6D"/>
+<path d="M57.5 78C57.7761 78 58 77.7761 58 77.5C58 77.2239 57.7761 77 57.5 77C57.2239 77 57 77.2239 57 77.5C57 77.7761 57.2239 78 57.5 78Z" fill="#656A6D"/>
+<path d="M114.5 66.5C114.776 66.5 115 66.2761 115 66C115 65.7239 114.776 65.5 114.5 65.5C114.224 65.5 114 65.7239 114 66C114 66.2761 114.224 66.5 114.5 66.5Z" fill="#656A6D"/>
+<path d="M110.5 67C111.052 67 111.5 66.5523 111.5 66C111.5 65.4477 111.052 65 110.5 65C109.948 65 109.5 65.4477 109.5 66C109.5 66.5523 109.948 67 110.5 67Z" fill="#656A6D"/>
+<path d="M4.5 67C5.05228 67 5.5 66.5523 5.5 66C5.5 65.4477 5.05228 65 4.5 65C3.94772 65 3.5 65.4477 3.5 66C3.5 66.5523 3.94772 67 4.5 67Z" fill="#656A6D"/>
+<path d="M57.5 69V75" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M57.5 57V63" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M59.5 66H107.5" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M7.5 66H55.5" stroke="#656A6D" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M57.5 69C58.6046 69 59.5 67.6569 59.5 66C59.5 64.3431 58.6046 63 57.5 63C56.3954 63 55.5 64.3431 55.5 66C55.5 67.6569 56.3954 69 57.5 69Z" stroke="#656A6D" stroke-miterlimit="10"/>
+</g>
+<defs>
+<clipPath id="clip0_106_524">
+<rect width="115" height="24" fill="white" transform="translate(0 54)"/>
+</clipPath>
+</defs>
+</svg>
